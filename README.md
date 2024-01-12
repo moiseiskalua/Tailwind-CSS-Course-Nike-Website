@@ -34,6 +34,6 @@ This Tailwind CSS tutorial provided a deep understanding of the framework's inte
 
 ### Video Credits:
 
-- **Title**: Maximizing Tailwind CSS: Tips and Tricks
+- **Title**: Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
 - **Link**: [Watch the Video](https://www.youtube.com/watch?v=tS7upsfuxmo)
 - **Channel**: [JavaScript Mastery]
